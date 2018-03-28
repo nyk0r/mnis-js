@@ -1,1 +1,1 @@
-An implementation of [exercise](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork/blob/master/part2_neural_network_mnist_data.ipynb) in JS.
+An implementation of the [exercise](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork/blob/master/part2_neural_network_mnist_data.ipynb) in JS.
