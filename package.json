@@ -1,0 +1,19 @@
+{
+  "name": "mnis-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "private": true,
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha --recursive --trace-warnings",
+    "lint": "node node_modules/eslint/bin/eslint test/ src/ *.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.19.1",
+    "mocha": "^5.0.5"
+  }
+}

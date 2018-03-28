@@ -1,0 +1,1 @@
+Full test datasets are too large to be included here. They can be downloaded from [pjreddie.com](https://pjreddie.com/projects/mnist-in-csv/).
